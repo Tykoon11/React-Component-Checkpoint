@@ -1,3 +1,19 @@
 .addy{
     color: red;
+    margin-left: 400px;
+}
+.profile{
+    width: 300px;
+    height: 500px;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-left: 550px
+    ;
+}
+.name{
+    margin-left: 450px;
+    color: gold;
+}
+body{
+    background-color: #AECBFA;
 }

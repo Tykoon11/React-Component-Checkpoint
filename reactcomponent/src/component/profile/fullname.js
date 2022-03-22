@@ -1,6 +1,6 @@
 function FullName(){
     return(
-        <h1>UNACHUKWU NOBLEMAN IKENNA</h1>
+        <h1 className = "name">UNACHUKWU NOBLEMAN IKENNA</h1>
     )
 }
 
