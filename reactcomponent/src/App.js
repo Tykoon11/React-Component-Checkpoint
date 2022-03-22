@@ -1,15 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
-import {address} from './component/profile/address' 
-// import {fullName} from "./component/profile/fullname"
-// import {profilePhoto} from "./component/profile/profilephoto"
+// import React from "react"
+import Address from './component/profile/address.js' 
+import FullName from "./component/profile/fullname.js"
+import ProfilePhoto from "./component/profile/profilephoto.js"
 
 
 
 function App() {
   return (
-      <address/>
-  );
+    <>
+        <Address/>
+        <FullName/>
+        <ProfilePhoto/>
+    </>
+  )
 }
 
 export default App;

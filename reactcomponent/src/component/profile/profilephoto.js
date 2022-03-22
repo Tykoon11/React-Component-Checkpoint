@@ -1,7 +1,8 @@
-function profilePhoto(){
+// import React from "react"
+function ProfilePhoto(){
     return (
-        <img ></img>
+        <img src="../IMG_9831.JPG" alt="noblephoto"></img>
     )
 }
 
-export{profilePhoto}
+export default ProfilePhoto

@@ -1,7 +1,7 @@
-function fullName(){
+function FullName(){
     return(
         <h1>UNACHUKWU NOBLEMAN IKENNA</h1>
     )
 }
 
-export{fullName}
+export default FullName
